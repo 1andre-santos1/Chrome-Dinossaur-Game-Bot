@@ -1,2 +1,10 @@
-# Chrome-Dinossaur-Game-Bot
-Simple bot that can play the offline game, of the Chrome browser, using the Template Matching of OpenCV in Python to detect the obstacles.
+# Chrome Dinossaur Game Bot
+
+<p align="center">
+  <img src="https://image.ibb.co/mZ0rUc/main.png" />
+</p>
+
+## About
+
+The objective of this application was the creation of a bot that can play, without human interaction, the Chrome offline game.
+
